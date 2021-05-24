@@ -10,5 +10,5 @@ Our app provides features like supply of oxygen,remedesivir,and plasma. Along wi
 <li>html</li>
 <li>css</li>
 <li>javascript</li></ul>
-<br><br><b>Data flow diagram</b>
+<br><br><b>Process flow diagram</b>
 <img src="https://github.com/PriyankaPriyadarshini1809/images/blob/main/data%20flow%20image.jpeg" alt="dataflow">
